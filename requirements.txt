@@ -1,3 +1,4 @@
 line-bot-sdk==1.18.0
-pytest
-autopep8
+flask==1.1.2
+pytest==6.2.1
+autopep8==1.5.4
